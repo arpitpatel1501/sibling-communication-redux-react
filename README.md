@@ -6,10 +6,11 @@
       /          \
      /            \
     /              \
- child B         child C
-(Input text)    (display input)
-        (Real Time)
-                 
+| child B      |    child C       |
+|(Input text)  |  (display input) |
+__________________________________
+|         (Real Time)             |
+__________________________________                
     
 ## Concept used:
 0. Global Store (state)
