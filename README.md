@@ -17,6 +17,5 @@
 3. Dispatcher
 
 ## Demo
-![Sibling Communication](https://github.com/arpitpatel1501/sibling-communication-redux-react/blob/main/sibling-communication.gif)
 
-<img src="https://github.com/arpitpatel1501/sibling-communication-redux-react/blob/main/sibling-communication.gif" width="600" height="250" />
+<img src="https://github.com/arpitpatel1501/sibling-communication-redux-react/blob/main/sibling-communication.gif" width="600" height="200" />
