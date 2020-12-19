@@ -1,11 +1,10 @@
 # Sibling Communication using Redux
 
-        Parent A
-        /      \
-       /        \
-      /          \
-     /            \
-    /              \
+
+            Parent A
+       ________|________
+      |                 |
+      |                 |
 | child B      |    child C       |
 |(Input text)  |  (display input) |
 __________________________________
