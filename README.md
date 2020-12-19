@@ -18,3 +18,5 @@
 
 ## Demo
 ![Sibling Communication](https://github.com/arpitpatel1501/sibling-communication-redux-react/blob/main/sibling-communication.gif)
+
+<img src="https://github.com/arpitpatel1501/sibling-communication-redux-react/blob/main/sibling-communication.gif" width="80" height="50" />
