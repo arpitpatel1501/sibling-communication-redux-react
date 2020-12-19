@@ -1,27 +1,13 @@
 # Sibling Communication using Redux
-
-
-            Parent A
-       ________|________
-      |                 |
-      |                 |
-| child B      |    child C       |
-|(Input text)  |  (display input) |
-__________________________________
-|         (Real Time)             |
-__________________________________                
    
-   
-
-            Parent A
+              |A|
        ________|________
       |                 |
       |                 |
      |B|               |C|
-|(Input text)  |  (display input) |
-__________________________________
-|         (Real Time)             |
-__________________________________                
+     
+- B: Input field
+- C: Display the text from B (real time)
       
    
 ## Concept used:
