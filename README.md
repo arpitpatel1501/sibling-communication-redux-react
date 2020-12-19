@@ -10,8 +10,11 @@
 - C: Display the text from B (real time)
       
    
-## Concept used:
+## Concept used
 0. Global Store (state)
 1. Reducer
 2. Action
 3. Dispatcher
+
+## Demo
+![Sibling Communication](https://github.com/arpitpatel1501/sibling-communication-redux-react/blob/main/sibling-communication.gif)
