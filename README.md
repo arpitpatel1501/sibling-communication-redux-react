@@ -13,8 +13,9 @@
 ## Concept used
 0. Global Store (state)
 1. Reducer
-2. Action
-3. Dispatcher
+2. Producer
+3. Action
+4. Dispatcher
 
 ## Demo
 
